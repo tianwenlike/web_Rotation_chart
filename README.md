@@ -14,7 +14,7 @@
 ```markdown
 <div class="all" id="all">
 		    <!-- 内容部分 -->
-		    <ul class="content1" id="content1">
+		  <ul class="content1" id="content1">
 		        <li><img src="1.jpg" alt=""></li>
 				<li><img src="2.jpg" alt=""></li>
 				<li><img src="3.jpg" alt=""></li>
