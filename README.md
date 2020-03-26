@@ -1,6 +1,4 @@
-<head>
-   <meta name="baidu-site-verification" content="VH7GoIn02t" />
-</head>
+
 ## JS原生轮播原生代码
 
 以下是我个人总结的简单经验分享
